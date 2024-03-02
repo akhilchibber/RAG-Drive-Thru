@@ -1,5 +1,4 @@
 # NLP RAG based AI Chatbot for taking orders from Drive-thru
-# Deep Learning based Flower Recognition
 <p align="center">
   <img src="https://github.com/akhilchibber/RAG-Drive-Thru/blob/main/Drive-thru.png?raw=true" alt="earthml Logo">
 </p>

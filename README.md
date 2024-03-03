@@ -16,6 +16,9 @@ This project aims to revolutionize the drive-thru ordering process in restaurant
 2. **Query Processing:** Interpreting customer queries, extracting relevant information, and converting it into a vector form to find the best matching menu items.
 
 3. **Response Generation:** Using retrieved information to generate clear and concise responses to customer inquiries, detailing matched menu items.
+<p align="center">
+  <img src="https://github.com/akhilchibber/RAG-Drive-Thru/blob/main/RAG.png?raw=true" alt="earthml Logo">
+</p>
 
 # Dependencies
 To run the project, ensure you have the following libraries:

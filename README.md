@@ -3,6 +3,9 @@
   <img src="https://github.com/akhilchibber/RAG-Drive-Thru/blob/main/Drive-thru.png?raw=true" alt="earthml Logo">
 </p>
 
+## Dataset
+The menu.json dataset used in this project can be found on Github: [Menu JSON Dataset](https://gist.githubusercontent.com/xapss/f1bc847ed57236c11f1e810095fa7555/raw/57bfab76abdecb0de83476fae953fac8b8c68378/menu.json). 
+
 ## Overview
 This project aims to revolutionize the drive-thru ordering process in restaurants by implementing a Retrieval-Augmented Generation (RAG) system. It leverages advanced NLP techniques to automate and accurately respond to customer inquiries about menu items in real-time, enhancing the overall customer experience.
 
@@ -13,6 +16,29 @@ This project aims to revolutionize the drive-thru ordering process in restaurant
 2. **Query Processing:** Interpreting customer queries, extracting relevant information, and converting it into a vector form to find the best matching menu items.
 
 3. **Response Generation:** Using retrieved information to generate clear and concise responses to customer inquiries, detailing matched menu items.
+
+# Dependencies
+To run the project, ensure you have the following libraries:
+
+- spaCy: For natural language processing. Ensure to download the English model with `python -m spacy download en_core_web_sm`.
+- numpy: for numerical computations
+- gensim: for Word2Vec model and text processing
+- annoy: for building and querying the vector database
+- sklearn: for using vector similarity measures outside of Annoy
+
+You can install these dependencies using pip:
+
+```bash
+pip install spacy numpy gensim annoy scikit-learn
+
+## Getting Started
+To get started with this project:
+
+1. Clone this repository to your local machine.
+2. Ensure you have Jupyter Notebook installed and running.
+3. Install the required dependencies.
+4. Download the "Menu JSON Dataset" and place it in the designated directory.
+5. Open and run the Jupyter Notebook "RAG_Assignment.ipynb" to run and evaluate the RAG Assignment.
 
 ## Contributing
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:

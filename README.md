@@ -30,7 +30,7 @@ You can install these dependencies using pip:
 
 ```bash
 pip install spacy numpy gensim annoy scikit-learn
-`
+```
 
 ## Getting Started
 To get started with this project:

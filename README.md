@@ -20,6 +20,9 @@ This project which is a Take Home Assignment which I got from [VOX AI](https://v
   <img src="https://github.com/akhilchibber/RAG-Drive-Thru/blob/main/RAG.png?raw=true" alt="earthml Logo">
 </p>
 
+## Current Capabilities
+This project is a preliminary implementation of a voice-based food ordering system. As of now, it is designed to handle basic queries, such as directly ordering specific items (e.g., "Can you please order Crispy Tenders for me?", "I want Crispy Tenders", "I would like to order a Pepsi", etc. or any other item available in the Menu but not Meals). The current version supports simple item recognition and pricing information based on vector matching from a structured dataset. Although the dataset includes detailed information on nutritional content, allergens, and availability, these features are not yet incorporated into the response system but can be easily added in future iterations.
+
 # Dependencies
 To run the project, ensure you have the following libraries:
 

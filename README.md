@@ -20,11 +20,11 @@ This project aims to revolutionize the drive-thru ordering process in restaurant
 # Dependencies
 To run the project, ensure you have the following libraries:
 
-**- spaCy:** For natural language processing. Ensure to download the English model with `python -m spacy download en_core_web_sm`.
+- **spaCy:** For natural language processing. Ensure to download the English model with `python -m spacy download en_core_web_sm`.
 - **numpy:** for numerical computations
-- gensim: for Word2Vec model and text processing
-- annoy: for building and querying the vector database
-- sklearn: for using vector similarity measures outside of Annoy
+- **gensim**: for Word2Vec model and text processing
+- **annoy**: for building and querying the vector database
+- **sklearn**: for using vector similarity measures outside of Annoy
 
 You can install these dependencies using pip:
 

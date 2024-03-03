@@ -1,7 +1,18 @@
-# RAG based AI Chatbot for taking orders from Drive-thru
+# Restaurant Drive-Thru Order Processing Enhancement Project
 <p align="center">
   <img src="https://github.com/akhilchibber/RAG-Drive-Thru/blob/main/Drive-thru.png?raw=true" alt="earthml Logo">
 </p>
+
+## Overview
+This project aims to revolutionize the drive-thru ordering process in restaurants by implementing a Retrieval-Augmented Generation (RAG) system. It leverages advanced NLP techniques to automate and accurately respond to customer inquiries about menu items in real-time, enhancing the overall customer experience.
+
+## Components
+
+1. **Vector Database Setup:** Creation of an in-memory vector database to store menu items as vector representations for efficient semantic similarity matching.
+
+2. **Query Processing:** Interpreting customer queries, extracting relevant information, and converting it into a vector form to find the best matching menu items.
+
+3. **Response Generation:** Using retrieved information to generate clear and concise responses to customer inquiries, detailing matched menu items.
 
 ## Contributing
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:

@@ -7,7 +7,7 @@
 The menu.json dataset used in this project can be found at [Menu JSON Dataset](https://github.com/akhilchibber/RAG-Drive-Thru/blob/main/menu.json). 
 
 ## Overview
-This project which is a Take Home Assignment which I got from [VOX AI](https://voxai.tech/) aims to revolutionize the drive-thru ordering process in restaurants by implementing a [Retrieval-Augmented Generation (RAG)](https://aws.amazon.com/what-is/retrieval-augmented-generation/) system. It leverages advanced NLP techniques to automate and accurately respond to customer inquiries about menu items in real-time, enhancing the overall customer experience.
+This project which is a Take Home Assignment (THA) which I got from [VOX AI](https://voxai.tech/) aims to revolutionize the drive-thru ordering process in restaurants by implementing a [Retrieval-Augmented Generation (RAG)](https://aws.amazon.com/what-is/retrieval-augmented-generation/) system. It leverages advanced NLP techniques to automate and accurately respond to customer inquiries about menu items in real-time, enhancing the overall customer experience.
 
 ## Components
 

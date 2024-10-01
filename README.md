@@ -1,4 +1,4 @@
-# Restaurant Drive-Thru Order Processing Enhancement
+# RAG based Restaurant Drive-Thru Order Processing
 <p align="center">
   <img src="https://github.com/akhilchibber/RAG-Drive-Thru/blob/main/Drive-thru.png?raw=true" alt="earthml Logo">
 </p>
